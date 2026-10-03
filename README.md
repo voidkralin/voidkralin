@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-  <a href="https://discord.com/users/KULLANICI_ID_BURAYA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="void.root" height="30" width="40" /></a>
+  <a href="https://discord.com/users/void.root" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="void.root" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
