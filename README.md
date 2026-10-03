@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ic1js9iWoH4PAA_9GgyIKIGwh2EbHvQ9OyCR7ktcu4MzcPBgctu2Ow&s=10" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">voidkralin</h1>
 
 ---
